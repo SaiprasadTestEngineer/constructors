@@ -1,4 +1,4 @@
-package methodConstructor;
+package gittGithub.constructors;
 
 public class StudentData {
 
